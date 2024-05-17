@@ -1,4 +1,4 @@
-Hi there! 👋
+Hi there! 👋 You can find my data science portfolio here: [morilucas.github.io/portfolio](https://morilucas.github.io/portfolio/index.html), where I'm currently exploring the intersection of data science and crypto.
 
 About me:
 - 🏫 Currently a MSc in Industrial Engineering with concentration in Computational Science at Purdue University
