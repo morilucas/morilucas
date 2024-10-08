@@ -1,8 +1,1 @@
-Hi there! 👋 You can find my data science portfolio here: [morilucas.github.io/portfolio](https://morilucas.github.io/portfolio/index.html), where I'm currently exploring the intersection of data science and crypto.
-
-About me:
-- 🏫 Currently a MSc in Industrial Engineering with concentration in Computational Science at Purdue University
-- 🏢 I've worked for 6+ years with financial planning and management consulting in São Paulo, Brazil
-- 🔉 I speak: English, Portuguese and Spanish
-- 🌍 I've lived at: West Lafayette, Indiana / São Paulo, Brazil / Brasília, Brazil / Glasgow, Scotland
-- 📫 Reach me: [linkedin.com/morilucas](https://www.linkedin.com/in/morilucas/)
+Hi there! 👋 I’m a data enthusiast currently in my 3rd year after transitioning from 6+ years in Financial Planning (FP&A) and Management Consulting. My expertise spans the full data science stack—from database design and data acquisition to analysis, BI reporting, and developing machine learning models. Explore my portfolio here: morilucas.github.io/portfolio.
