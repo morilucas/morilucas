@@ -1,1 +1,1 @@
-Hi there! 👋 I’m a data enthusiast currently in my 3rd year after transitioning from 6+ years in Financial Planning (FP&A) and Management Consulting. My expertise spans the full data science stack—from database design and data acquisition to analysis, BI reporting, and developing machine learning models. Explore my portfolio here: morilucas.github.io/portfolio.
+Hi there! 👋 Read my blog on Medium here: https://medium.com/@morilucas
